@@ -1,16 +1,16 @@
 title:              Data Verse
-email:              ajitosh.anand@example.com
+email:              ajitosh.anand@gmail.com
 description:        Data Science, Verse, Such stuff as dreams are made on
 author:             Data Verse
 baseurl:            ""
 url:                "https://Ajitosh.github.io"
 
 # Social Profiles
-twitter_username:   
-github_username:    
+twitter_username:   @tweetsofanand
+github_username:    https://github.com/Ajitosh
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username:  https://www.linkedin.com/in/ajitosh/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
