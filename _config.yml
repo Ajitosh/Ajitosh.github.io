@@ -1,8 +1,8 @@
 title:              Data Verse
-email:              ajitosh.anand@gmail.com
-description:        <h4> Data Science, Verse, Such stuff as dreams are made on </h4>
+email:              'ajitosh.anand@gmail.com'
+description:        <h4> Data Science, Verse, Such Stuffs as Dreams are Made on </h4>
 author:             Data Verse
-baseurl:            ""
+baseurl:            
 url:                "https://Ajitosh.github.io"
 
 # Social Profiles
