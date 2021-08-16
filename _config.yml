@@ -6,11 +6,11 @@ baseurl:            ""
 url:                "https://Ajitosh.github.io"
 
 # Social Profiles
-twitter_username:   @tweetsofanand
-github_username:    https://github.com/Ajitosh
+twitter_username:   "@tweetsofanand"
+github_username:    "https://github.com/Ajitosh"
 facebook_username:  
 instagram_username:  
-linkedin_username:  https://www.linkedin.com/in/ajitosh/
+linkedin_username:  "https://www.linkedin.com/in/ajitosh/"
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
